@@ -218,7 +218,7 @@ nav.busqueda{
     justify-content: space-around;
     text-align: center;
 }
-@media(min-width:361px){
+@media(min-width:383px){
     main .ultima-visita {
         display: flex;
         flex-wrap: wrap;
